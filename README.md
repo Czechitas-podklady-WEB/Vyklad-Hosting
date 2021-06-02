@@ -41,7 +41,7 @@ Prostor pro zálohování zdrojových souborů a jejich sdílení v týmu.
 
 1. Soubory proženeme Webpackem, který vytvoří složku s html, css, js, obrázky, která je určená pro prohlížeč. Tu dáme na hosting od Netlify.
 
-1. Předchystaná doména končící na `.netlify.app` se nám nelíbí, a tak na Active24 zaregistrujeme a zaplatíme doménu jinou. Té nastavíme DNS záznamy, aby směřovaly na adresu Netlify serveru.
+1. Předchystaná doména končící na `.netlify.app` se nám nelíbí, a tak na Active24 zaregistrujeme a zaplatíme doménu jinou. Té nastavíme DNS záznamy podle dokumentace [Netlify](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/#configure-an-apex-domain), aby směřovaly na adresu Netlify serveru.
 
 1. Uživatel zadá do prohlížeče naši doménu.
 

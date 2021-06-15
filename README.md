@@ -9,6 +9,7 @@ Server, ze kterého se servírují stránky uživatelům.
 - [Heroku](https://www.heroku.com/)
 - [Vercel](https://vercel.com/)
 - [Endora](https://www.endora.cz/)
+- [Wedos](https://www.wedos.cz/)
 
 ## Doména
 
@@ -23,6 +24,7 @@ Záznamy párující domény s číselnými adresami serverů. Pro czechitas by 
 - [Active24](https://www.active24.cz/)
 - [Endora](https://www.endora.cz/)
 - [Forpsi](https://www.forpsi.com/)
+- [Wedos](https://www.wedos.cz/)
 - [GoDaddy](https://uk.godaddy.com/)
 
 ## Verzování kódu

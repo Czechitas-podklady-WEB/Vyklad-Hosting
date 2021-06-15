@@ -54,3 +54,5 @@ Prostor pro zálohování zdrojových souborů a jejich sdílení v týmu.
 1. Je odkázán na Netlify, od kterého v zápětí dostane html a další související soubory.
 
 1. Netlify máme nastaveno tak, že pozná nový kód na GitHubu, automaticky na něj pustí Webpack a uloží si novou složku dist, kterou nově servíruje uživatelům místo staré verze. Doména už není potřeba znovu nastavovat.
+
+<div align="center" width="100%;"><br/><img src="./images/meme.jpg"></div>

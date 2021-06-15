@@ -43,9 +43,11 @@ Prostor pro zálohování zdrojových souborů a jejich sdílení v týmu.
 
 1. Předchystaná doména končící na `.netlify.app` se nám nelíbí, a tak na Active24 zaregistrujeme a zaplatíme doménu jinou. Té nastavíme DNS záznamy podle dokumentace [Netlify](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/#configure-an-apex-domain), aby směřovaly na adresu Netlify serveru.
 
+1. Počkáme zhruba hodinu, než se nové záznamy automaticky propíšou, nakopírují do patřičných míst.
+
 1. Uživatel zadá do prohlížeče naši doménu.
 
-1. Prohlížeč se zeptá DNS, jakému serveru si má říct obsah.
+1. Prohlížeč se zeptá DNS, jakému serveru si má říct o obsah.
 
 1. Je odkázán na Netlify, od kterého v zápětí dostane html a další související soubory.
 
